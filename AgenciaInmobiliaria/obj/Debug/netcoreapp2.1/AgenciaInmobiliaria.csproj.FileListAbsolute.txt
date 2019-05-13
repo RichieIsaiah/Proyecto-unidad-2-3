@@ -1,0 +1,11 @@
+C:\Users\RICHI\source\repos\AgenciaInmobiliaria\bin\Debug\netcoreapp2.1\AgenciaInmobiliaria.deps.json
+C:\Users\RICHI\source\repos\AgenciaInmobiliaria\bin\Debug\netcoreapp2.1\AgenciaInmobiliaria.runtimeconfig.json
+C:\Users\RICHI\source\repos\AgenciaInmobiliaria\bin\Debug\netcoreapp2.1\AgenciaInmobiliaria.runtimeconfig.dev.json
+C:\Users\RICHI\source\repos\AgenciaInmobiliaria\bin\Debug\netcoreapp2.1\AgenciaInmobiliaria.dll
+C:\Users\RICHI\source\repos\AgenciaInmobiliaria\bin\Debug\netcoreapp2.1\AgenciaInmobiliaria.pdb
+C:\Users\RICHI\source\repos\AgenciaInmobiliaria\obj\Debug\netcoreapp2.1\AgenciaInmobiliaria.csprojAssemblyReference.cache
+C:\Users\RICHI\source\repos\AgenciaInmobiliaria\obj\Debug\netcoreapp2.1\AgenciaInmobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\RICHI\source\repos\AgenciaInmobiliaria\obj\Debug\netcoreapp2.1\AgenciaInmobiliaria.AssemblyInfoInputs.cache
+C:\Users\RICHI\source\repos\AgenciaInmobiliaria\obj\Debug\netcoreapp2.1\AgenciaInmobiliaria.AssemblyInfo.cs
+C:\Users\RICHI\source\repos\AgenciaInmobiliaria\obj\Debug\netcoreapp2.1\AgenciaInmobiliaria.dll
+C:\Users\RICHI\source\repos\AgenciaInmobiliaria\obj\Debug\netcoreapp2.1\AgenciaInmobiliaria.pdb
