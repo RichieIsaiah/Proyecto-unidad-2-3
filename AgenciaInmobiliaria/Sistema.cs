@@ -4,12 +4,13 @@ using System.Text;
 
 namespace AgenciaInmobiliaria
 {
-    public class Puesto
+    public class Sistema
+
     {
-        public int Id { get; set; }
 
-        public string Nombre { get; set; }
 
-        
+
+
+
     }
 }
